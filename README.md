@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![I am a individual Full-Stack Developer.](https://www.codingdojo.com/blog/wp-content/uploads/BlogImg_ChoosePythonFramework2.png)
+![I am a individual Full-Stack Developer.](https://fullscale.io/blog/wp-content/uploads/2021/01/python-web-development.png)
 
 I love to build the ⚡ website ⚡ and ⚡ webapp⚡ , I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
 
